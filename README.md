@@ -1,13 +1,12 @@
 ## Netflix
 
 ### 💻프로젝트 소개
-리액트 타입스크립트로 개발한 넷플릭스 사이트입니다.
+리액트로 개발한 넷플릭스 사이트입니다.
 
-### 📒사용 언어
-- React
-- TypeScript
+### 📒Skill
+- React.ts
 
-### 📗사용 라이브러리
+### 📗라이브러리
 - router
 - framer-motion
 - styled-components
